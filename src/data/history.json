@@ -1,0 +1,16 @@
+[
+    {
+        "role": "WordPress Developer",
+        "organisation": "Shamkris Global Group",
+        "startDate": "February 2021",
+        "experiences": ["Working on WordPress Websites, Landig Pages", "Reduced load website time"],
+        "imageSrc": "history/shamkris1.png"
+    },
+    {
+        "role": "Digital Marketing",
+        "organisation": "Shamkris Global Group",
+        "startDate": "February 2021",
+        "experiences": ["Ranked SEO-friendly articles on the first page of Google search results through keyword research", "Managed social media accounts"],
+        "imageSrc": "history/shamkris1.png"
+    }
+]

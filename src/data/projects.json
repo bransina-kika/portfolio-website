@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Business Landing Page",
+        "imageSrc": "projects/landing-page.png",
+        "description": "This is Business Landing Project that I made for practice project",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7209083017909227520/",
+        "source": "https://github.com/bransina-kika/business-landing-page"
+    },
+    {
+        "title": "Contact Page",
+        "imageSrc": "projects/contact-page.png",
+        "description": "This is Business Landing Project that I made for practice project",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7198541366111432704/",
+        "source": "https://github.com/bransina-kika/business-landing-page"
+    },
+    {
+        "title": "Sign Up Page",
+        "imageSrc": "projects/login-signup.png",
+        "description": "This is Business Landing Project that I made for practice project",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7197187690868412417/",
+        "source": "https://github.com/bransina-kika/business-landing-page"
+    }
+]
